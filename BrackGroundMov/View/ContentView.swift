@@ -3,7 +3,7 @@
 //  BrackGroundMov
 //
 //  Created by Paul F on 25/02/25.
-//
+//  Background Harry Potter.
 
 import SwiftUI
 //Liberia para el audio.
